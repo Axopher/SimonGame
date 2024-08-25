@@ -1,2 +1,3 @@
 # SimonGame
-Just for fun
+## Welcome to Simon Game
+- Test Your Memory
